@@ -6,7 +6,7 @@
   Group 121 of Group-Formation Google Sheet
   Deep Patel, Ricky Rathod, Sanjot Khaira
   501090050, 501104462, 501104140             
-  Section 7, Section 11, Section 8*/
+  Section 7, Section 11, Section 8*///
 
 int main(void) {
 
